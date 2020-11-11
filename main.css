@@ -23,7 +23,37 @@ nav ul {
 }
 
 form {
+    font-size: larger;
     border: 5px solid firebrick;
     width: 20%;
     margin-left: 35%;
+    text-align: center;
+    font-size: 120%;
+}
+
+body h1{
+    font-size: 400%;
+    font-weight: bolder;
+    margin-left: 37%;
+}
+
+.fb {
+    border-radius: 300px;
+    margin-left: 39%;
+    
+}
+
+.Github {
+    border-radius: 300px;
+    margin-left: auto;
+}
+
+.Instagram {
+    border-radius: 300px;
+    margin-left: auto;
+}
+
+.twitter {
+    border-radius: 300px;
+    margin-left: auto;
 }
